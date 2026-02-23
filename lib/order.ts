@@ -43,4 +43,3 @@ export async function createOrder(order: Order): Promise<void> {
     createdAt: serverTimestamp(),
   });
 }
-

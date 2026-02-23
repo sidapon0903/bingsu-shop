@@ -305,3 +305,36 @@
   color: #fff;
   font-weight: bold;
 }
+.order-row {
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.order-img {
+  width: 64px;
+  height: 64px;
+  border-radius: 12px;
+  object-fit: cover;
+}
+
+.order-info {
+  flex: 1;
+}
+
+.order-note {
+  font-size: 12px;
+  color: #e11d48;
+}
+
+.slip-upload {
+  margin-top: 14px;
+  font-size: 14px;
+}
+
+.slip-name {
+  font-size: 13px;
+  margin-top: 6px;
+  opacity: 0.7;
+}
