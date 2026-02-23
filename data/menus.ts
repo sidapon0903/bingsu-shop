@@ -1,0 +1,138 @@
+export const menus = [
+  {
+    name: "Classic Milk Snow",
+    price: 120,
+    rating: 4.8,
+    img: "/images/classic-milk.jpg",
+    category: "classic",
+    color: "#E9F4EE",
+  },
+  {
+    name: "Strawberry Dream",
+    price: 145,
+    rating: 4.9,
+    img: "/images/strawberry-dream.jpg",
+    category: "fruity",
+    color: "#FFE8EC",
+  },
+  {
+    name: "Choco Lava Mountain",
+    price: 150,
+    rating: 4.7,
+    img: "/images/choco-lava.jpg",
+    category: "chocolate",
+    color: "#F3E7E1",
+  },
+  {
+    name: "Matcha Forest",
+    price: 135,
+    rating: 4.8,
+    img: "/images/matcha-forest.jpg",
+    category: "tea",
+    color: "#E6F2EA",
+  },
+  {
+    name: "Thai Milk Tea",
+    price: 65,
+    rating: 4.6,
+    img: "/images/thai-milk-tea.jpg",
+    category: "drinks",
+    color: "#FFF0D6",
+  },
+  {
+    name: "Brown Sugar Milk Snow",
+    price: 130,
+    rating: 4.7,
+    img: "/images/BrownSugar.jpg",
+    category: "classic",
+    color: "#F2EFEA",
+  },
+  {
+    name: "Red Bean Milk Snow",
+    price: 125,
+    rating: 4.6,
+    img: "/images/red-bean.jpg",
+    category: "classic",
+    color: "#EFE6E6",
+  },
+
+  // ===== Fruity & Refreshing =====
+  {
+    name: "Mango Snow Delight",
+    price: 155,
+    rating: 4.8,
+    img: "/images/mango-snow.jpg",
+    category: "fruity",
+    color: "#FFF3D8",
+  },
+  {
+    name: "Berry Mix Snow",
+    price: 160,
+    rating: 4.7,
+    img: "/images/berry-mix.jpg",
+    category: "fruity",
+    color: "#FFEAF1",
+  },
+
+  // ===== Chocolate & Decadent =====
+  {
+    name: "Chocolate Brownie Snow",
+    price: 165,
+    rating: 4.9,
+    img: "/images/choco-brownie.jpg",
+    category: "chocolate",
+    color: "#EEE2DA",
+  },
+  {
+    name: "Nutella Lava Snow",
+    price: 170,
+    rating: 4.8,
+    img: "/images/nutella.jpg",
+    category: "chocolate",
+    color: "#F0E0D6",
+  },
+
+  // ===== Tea & Local Flavors =====
+  {
+    name: "Matcha Azuki Snow",
+    price: 145,
+    rating: 4.7,
+    img: "/images/matcha-azuki.jpg",
+    category: "tea",
+    color: "#E8F3EC",
+  },
+  {
+    name: "Thai Tea Snow",
+    price: 140,
+    rating: 4.6,
+    img: "/images/thai-tea-snow.jpg",
+    category: "tea",
+    color: "#FFF1D9",
+  },
+
+  // ===== Drinks =====
+  {
+    name: "Fresh Lemon Tea",
+    price: 60,
+    rating: 4.5,
+    img: "/images/lemon-tea.jpg",
+    category: "drinks",
+    color: "#F4FFE8",
+  },
+  {
+    name: "Strawberry Soda",
+    price: 70,
+    rating: 4.6,
+    img: "/images/strawberry-soda.jpg",
+    category: "drinks",
+    color: "#FFE6EB",
+  },
+  {
+  name: "Cocoa Milk",
+  price: 1,
+  rating: 4.7,
+  img: "/images/cocoa-milk.jpg",
+  category: "drinks",
+  color: "#F3E1D6",
+},
+];
